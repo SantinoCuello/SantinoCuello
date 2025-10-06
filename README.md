@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Santino</h1>
+<h1 align="center">Hi!!, I'm Santino 🐝</h1>
 <h3 align="center">A passionate developer with interests in backend development, data analysis, and game development.</h3>
 
 <p align="center">
@@ -21,7 +21,22 @@
 </p>
 
 
-- 🌱 I’m currently learning **Java Web, Godot, and MySQL**
+---
+
+<h3 align="left">📂 Featured Projects</h3>
+
+<p align="center">
+  <a href="https://github.com/SantinoCuello/FireFighter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=santinocuello&repo=truco-simulation&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/santinocuello/mbti-text-classifier">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=santinocuello&repo=mbti-text-classifier&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Math3-Group/Python_ML_Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=santinocuello&repo=hyderabad-salary-analysis&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
 
 ---
 
