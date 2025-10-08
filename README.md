@@ -1,4 +1,4 @@
-<h1 align="center">Hi!!, I'm Santino 🐝</h1>
+<h1 align="center">Hi!, I'm Santino 🐝</h1>
 <h3 align="center">A passionate developer with interests in backend development, data analysis, and game development.</h3>
 
 <p align="center">
