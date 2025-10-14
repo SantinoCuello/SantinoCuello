@@ -28,8 +28,8 @@
   <a href="https://github.com/SantinoCuello/Number-Guessing-Game">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantinoCuello&repo=Number-Guessing-Game&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/SantinoCuello/JavaGamePractice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantinoCuello&repo=JavaGamePractice&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/SantinoCuello/ConsultorioOdontologico">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantinoCuello&repo=ConsultorioOdontologico&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/Math3-Group/Python_ML_Project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Math3-Group&repo=Python_ML_Project&theme=tokyonight&hide_border=true" />
