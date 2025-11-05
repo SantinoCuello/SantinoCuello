@@ -34,6 +34,9 @@
   <a href="https://github.com/SantinoCuello/ConsultorioOdontologico">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantinoCuello&repo=ConsultorioOdontologico&theme=tokyonight&hide_border=true" />
   </a>
+  <a href="https://github.com/SantinoCuello/SnakeGame">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantinoCuello&repo=SnakeGame&theme=tokyonight&hide_border=true" />
+  </a>
   
 </p>
 
