@@ -1,7 +1,7 @@
 <h1 align="center">Hi!, I'm Santino 🐝</h1>
 <h3 align="center">A passionate developer with interests in backend development, data analysis, and game development.</h3>
 
-<h3 align="left">📂 Featured Projects</h3>
+<h3 align="center">📂 Featured Projects</h3>
 
 <p align="center">
   <a href="https://github.com/Math3-Group/Python_ML_Project">
@@ -18,7 +18,6 @@
   </a>
   
 </p>
----
 <p align="center">
   <a href="https://github.com/santinocuello">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=santinocuello&theme=tokyo-night&hide_border=true" alt="Santino's Activity Graph" />
