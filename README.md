@@ -1,6 +1,24 @@
 <h1 align="center">Hi!, I'm Santino 🐝</h1>
 <h3 align="center">A passionate developer with interests in backend development, data analysis, and game development.</h3>
 
+<h3 align="left">📂 Featured Projects</h3>
+
+<p align="center">
+  <a href="https://github.com/Math3-Group/Python_ML_Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Math3-Group&repo=Python_ML_Project&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/SantinoCuello/Number-Guessing-Game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantinoCuello&repo=Number-Guessing-Game&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/SantinoCuello/ConsultorioOdontologico">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantinoCuello&repo=ConsultorioOdontologico&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/SantinoCuello/SnakeGame">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantinoCuello&repo=SnakeGame&theme=tokyonight&hide_border=true" />
+  </a>
+  
+</p>
+---
 <p align="center">
   <a href="https://github.com/santinocuello">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=santinocuello&theme=tokyo-night&hide_border=true" alt="Santino's Activity Graph" />
@@ -18,26 +36,6 @@
   <a href="https://github.com/santinocuello">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santinocuello&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
-</p>
-
-
----
-<h3 align="left">📂 Featured Projects</h3>
-
-<p align="center">
-  <a href="https://github.com/Math3-Group/Python_ML_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Math3-Group&repo=Python_ML_Project&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/SantinoCuello/Number-Guessing-Game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantinoCuello&repo=Number-Guessing-Game&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/SantinoCuello/ConsultorioOdontologico">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantinoCuello&repo=ConsultorioOdontologico&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/SantinoCuello/SnakeGame">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantinoCuello&repo=SnakeGame&theme=tokyonight&hide_border=true" />
-  </a>
-  
 </p>
 
 ---
